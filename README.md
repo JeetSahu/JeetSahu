@@ -1,36 +1,49 @@
-<br>
-<br>
-<h1 align="center">Hi there 👋 Myself jeet Sahu (jeet868)</h1>
+<h1 align="center">Hi there 👋 I'm Jeet Sahu</h1>
 
-<p aligh="left">I am just a guy who has all kinds of interests in Technology. So my interests include anything and everything ranging from competitive programming with JS😎 to gaming like a complete n00b🥴. I am a student pursuing my bachelor's degree from <a href='https://lpu.in'>Lovely Professional University</a>. I am also a part-time freelancer (which actually gives a boost to my pocket money😋).
+<p align="center">
+  👨‍💻 Tech Enthusiast | 🎓 B.Tech @ <a href="https://www.lpu.in" target="_blank">LPU</a> | 🛠️ Part-time Freelancer | ☕ Coffee-powered Coder
+</p>
 
-<br>
+<p align="left">
+  I'm just a curious guy who loves everything tech—from building cool projects in JavaScript and Node.js to being a noob at gaming 🎮. When I'm not studying or freelancing, I'm probably exploring Linux servers or optimizing my coffee-to-productivity ratio ☕💻.
+</p>
 
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=jeetsahu868&color=blue)](https://twitter.com/jeetsahu868)
+<p align="center">
+  <a href="https://twitter.com/jeetsahu868">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@jeetsahu868&color=1DA1F2" />
+  </a>
+  <a href="mailto:jsahulpu@gmail.com">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=jsahulpu@gmail.com&color=D14836" />
+  </a>
+</p>
 
+<img align="right" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width="250" alt="Coding GIF" />
 
+### 👨‍💻 What I'm Up To
 
+- 🔭 Currently building & stacking projects for my **developer portfolio**.
+- 🌱 Learning **JavaScript**, **Node.js**, and **Linux hardening**.
+- 👯 Open to collaborating on **web development projects** and **creative tech ideas**.
+- 🤔 Always trying to make sense of **life and its daily dramas**.
+- 📫 Best way to reach me? Hit me up on [Twitter](https://twitter.com/jeetsahu868) (Insta's too aesthetic for me 😅).
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: Too much coffee = ✨anxious wizard mode✨
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/YTDZakyAorkLDYqN0q/giphy.gif" width='250' />
+---
 
-- 🔭 I’m currently working on _building and stacking up items for my portfolio._
-- 🌱 I’m currently learning _JS, node js, and hardening linux servers._
-- 👯 I’m looking to collaborate on _anything that's related to creating and developing NEW experiences for both me and others that browse my content._
-- 🤔 I’m looking for help with _life, and it's recurring drama_
-- 📫 How to reach me: _I would've given my Insta, but I am not that aesthetically pleasing... so let's stick with my_ [Twitter](https://twitter.com/param373r) _plzz_
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: _Excess of coffee can cause anxiety, Bewehehehare_
+## 🚀 Wanna Hire Me?
 
-<br>
+Need a freelance dev or want to collaborate on a cool project? I'm open to work!
+Just shoot me an email at: [jsahulpu@gmail.com](mailto:jsahulpu@gmail.com)
 
-## Wanna Hire Me?
-Need some help? I am up for work too... Kindly contact me here😃:
-<br>
-<br>
-[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Gmail&message=jsahulpu@gmail.com&color=red)](mailto:jsahulpu@gmail.com)
+---
 
-## Github Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetsahu&show_icons=true&theme=vue-dark&count_private=true)
 
-## Featured Repos
+---
+
+## 📌 Featured Repositories
+
+> Coming soon... Stay tuned for my top projects 🚀
